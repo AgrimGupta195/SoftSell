@@ -2,10 +2,6 @@
 
 A responsive single-page marketing website for a fictional software resale startup called "SoftSell". This project was built as an internship assignment for Credex Web Development.
 
-## Live Demo
-
-[View the live site](#) https://soft-sell-alpha.vercel.app/
-
 ## Features Implemented
 
 ### Core Components
@@ -83,6 +79,16 @@ softsell/
 - Simple, intuitive navigation
 - Animations that enhance rather than distract
 - Mobile-first approach to ensure great experience on all devices
+
+## Time Spent
+- Design planning: 1 hour
+- Component development: 3 hours
+- Styling and responsiveness: 3 hours
+- Interactivity and animations: 3 hour
+- Chat widget implementation: 1 hour
+- Testing and refinement: 1 hour
+
+Total: Approximately 12 hours
 
 ## Future Enhancements
 - Integration with a real backend for form submission
