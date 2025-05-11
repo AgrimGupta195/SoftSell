@@ -150,8 +150,6 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
           </motion.button>
         </div>
       </div>
-      
-      {/* Mobile Menu */}
       <AnimatePresence>
         {mobileMenuOpen && (
           <motion.div
